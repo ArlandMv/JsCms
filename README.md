@@ -1,8 +1,8 @@
 # JsCms
+This solution is meant to be a lighter substitute for wordpress. 
 
-# Frontend Mentor - 3-column preview card component solution
+Being a javascript solution it is better alternative in terms of scalability with containerization tecnology such as [Kubernetes].(https://kubernetes.io/es/)
 
-This is a solution to the [3-column preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/3column-preview-card-component-pH92eAR2-). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
 ## Table of contents
 
@@ -15,7 +15,7 @@ This is a solution to the [3-column preview card component challenge on Frontend
   <!-- - [What I learned](#what-i-learned)
   - [Continued development](#continued-development)
   - [Useful resources](#useful-resources) -->
-- [Author](#author)
+<!-- - [Author](#author) -->
 <!-- - [Acknowledgments](#acknowledgments) -->
 
 ## Overview
@@ -28,6 +28,7 @@ Users should be able to:
 - Content managment System
 
 ## Screenshots
+![Sanity.io Content Studio](./screenshots/Sanity.io Content Studio.png)
 
 ### Built with ReactJs
 
@@ -40,8 +41,6 @@ Users should be able to:
 - [Next.js](https://nextjs.org/) - React framework
 - [Styled Components](https://styled-components.com/) - For styles -->
 
-## Author
+<!--## Author
 
-<!-- - Website - [Add your name here](https://www.your-site.com) -->
-
-- Frontend Mentor - [@ArlandMv](https://www.frontendmentor.io/profile/ArlandMv)
+ - Website - [Add your name here](https://www.your-site.com) -->
