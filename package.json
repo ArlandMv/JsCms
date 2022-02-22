@@ -1,5 +1,26 @@
 {
-  "devDependencies": {
-    "standard-version": "^9.3.2"
-  }
+	"name": "jscms",
+	"version": "0.2.0",
+	"description": "",
+	"keywords": [
+		"React",
+		"Scss",
+		"Sanity.io",
+		"FrontEnd"
+	],
+	"author": "Arland Michelena Villegas <arlandmichelenav@gmail.com>",
+	"license": "MIT",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/ArlandMv/JsCms"
+	},
+	"devDependencies": {
+		"standard-version": "^9.3.2"
+	},
+	"scripts": {
+		"set-server": "cd server && npm install",
+		"start-server": "cd server && sanity start",
+		"set-client": "cd client && npm install",
+		"start-client": "cd client && npm run start"
+	}
 }
