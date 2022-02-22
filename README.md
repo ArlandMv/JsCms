@@ -1,8 +1,8 @@
 # JsCms
-This solution is meant to be a lighter substitute for wordpress. 
+
+This solution is meant to be a lighter substitute for wordpress.
 
 Being a javascript solution it is better alternative in terms of scalability with containerization tecnology such as [Kubernetes].(https://kubernetes.io/es/)
-
 
 ## Table of contents
 
@@ -11,12 +11,12 @@ Being a javascript solution it is better alternative in terms of scalability wit
   - [Screenshot](#screenshot)
   <!-- - [Links](#links) -->
 - [My process](#my-process)
-  - [Built with ReacJs](#built-with-reacjs)
+  - [Built with ReactJs](#built-with-reactjs)
   <!-- - [What I learned](#what-i-learned)
   - [Continued development](#continued-development)
   - [Useful resources](#useful-resources) -->
-<!-- - [Author](#author) -->
-<!-- - [Acknowledgments](#acknowledgments) -->
+    <!-- - [Author](#author) -->
+    <!-- - [Acknowledgments](#acknowledgments) -->
 
 ## Overview
 
@@ -28,6 +28,7 @@ Users should be able to:
 - Content managment System
 
 ## Screenshots
+
 ![Sanity.io Content Studio](./screenshots/Sanity.io Content Studio.png)
 
 ### Built with ReactJs
