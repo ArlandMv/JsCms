@@ -5,12 +5,9 @@ import { Navbar } from './components';
 const App = () => {
   return (
     <div className='app'>
-
       <Navbar />
-      <br />
-      <br />
-      <h1>Javascript CMS</h1>
-      <p>The best way to let your custumers manage content</p>
+      {/* <h1>Javascript CMS</h1>
+      <p>The best way to let your custumers manage content</p> */}
       <Header />
       <About />
       <Work />
