@@ -21,6 +21,7 @@
 		"set-server": "cd server && npm install",
 		"start-server": "cd server && sanity start",
 		"set-client": "cd client && npm install",
-		"start-client": "cd client && npm run start"
+		"start-client": "cd client && npm run start",
+		"release": "standard-version"
 	}
 }
